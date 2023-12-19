@@ -21,12 +21,12 @@
            ||                 RHUTVIK HEGDE                   ||
            ||                                                 ||
            ||           Programmer, Game Developer,           ||
-           ||               AI Enthusiast, and                ||
-           ||                professional bot                 ||
+           ||       AI and Computer Security enthusiast,      ||
+           ||             and professional bot                ||
            ||                                                 ||
            ||            currently at VIT Vellore             ||
-           ||                                                 ||
-           ||                                                 ||
+           ||                studying CSE with                ||
+           ||        Informaton Security Specialization       ||
            ||                                                 ||
            ||                                                 ||
             \_________________________________________________/
