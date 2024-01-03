@@ -20,8 +20,8 @@
            ||                                                 ||
            ||                 RHUTVIK HEGDE                   ||
            ||                                                 ||
-           ||           Programmer, Game Developer,           ||
-           ||       AI and Computer Security enthusiast,      ||
+           ||   Programmer, AI and Machine learning devotee,  ||
+           ||    Gamedev and Computer Security enthusiast,    ||
            ||             and professional bot                ||
            ||                                                 ||
            ||            currently at VIT Vellore             ||
